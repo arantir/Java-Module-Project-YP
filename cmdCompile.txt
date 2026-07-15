@@ -1,0 +1,6 @@
+
+//Компиляция
+javac /home/alexandr/prj/android/Java-Module-Project-YP/src/main/java/Main.java
+
+//Запуск
+cd /home/alexandr/prj/android/Java-Module-Project-YP && java -cp src/main/java Main
